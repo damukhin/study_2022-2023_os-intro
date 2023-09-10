@@ -2,7 +2,7 @@
 ## Front matter
 title: "Лабораторная работа 2"
 subtitle: "Операционные системы "
-author: "Мухина Даниила Александровича"
+author: "Мухин Даниил Александрович"
 
 ## Generic otions
 lang: ru-RU
